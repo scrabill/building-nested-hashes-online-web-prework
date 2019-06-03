@@ -22,6 +22,7 @@ def bonus
 
   #code your solution here:
   def bonus
+    epic_tragedy[:montague][:hero][status:] = "Dead"
   end
 
 
