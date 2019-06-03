@@ -10,7 +10,11 @@ def fourth_challenge
           name: "Benvolio",
           age: "17",
           attitude: "woried"
-        },
+        },{
+          name: "Mercutio",
+          age: "18",
+          attitude: "hot-headed"
+        }
       ]
    },
    :capulet => {
