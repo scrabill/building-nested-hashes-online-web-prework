@@ -25,11 +25,11 @@ def fourth_challenge
         #your hashes here!
         {
           name: "Steven",
-          age: "17",
+          age: "30",
           attitude: "woried"
         },{
           name: "Nurse",
-          age: "18",
+          age: "44",
           attitude: "hot-headed"
         }
       ]
